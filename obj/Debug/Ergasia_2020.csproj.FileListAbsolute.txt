@@ -1,0 +1,63 @@
+C:\Users\Anouk\source\repos\Ergasia_2020\bin\Debug\Ergasia_2020.exe.config
+C:\Users\Anouk\source\repos\Ergasia_2020\bin\Debug\Ergasia_2020.exe
+C:\Users\Anouk\source\repos\Ergasia_2020\bin\Debug\Ergasia_2020.pdb
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.csprojAssemblyReference.cache
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.Employee_Main.resources
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Customer.resources
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Employee.resources
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.Login.resources
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.Properties.Resources.resources
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.csproj.GenerateResource.cache
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.exe
+C:\Users\Anouk\source\repos\Ergasia_2020\obj\Debug\Ergasia_2020.pdb
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\bin\Debug\Ergasia_2020.exe.config
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\bin\Debug\Ergasia_2020.exe
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\bin\Debug\Ergasia_2020.pdb
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.csprojAssemblyReference.cache
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.Employee_Main.resources
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.Cinema_Complex_Employee.resources
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.Login.resources
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.Properties.Resources.resources
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.csproj.GenerateResource.cache
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.exe
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.pdb
+D:\Downloads\Ergasia_2020-master\Ergasia_2020-master\obj\Debug\Ergasia_2020.Cinema_Complex_Customer.resources
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\bin\Debug\Ergasia_2020.exe.config
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\bin\Debug\Ergasia_2020.exe
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\bin\Debug\Ergasia_2020.pdb
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.csprojAssemblyReference.cache
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.Employee_Main.resources
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Customer.resources
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Employee.resources
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.Login.resources
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.Properties.Resources.resources
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.csproj.GenerateResource.cache
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.csproj.CoreCompileInputs.cache
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.exe
+C:\Users\Anouk\Google Drive\Σχολή\3ο ΕΤΟΣ\5ο ΕΞΑΜΗΝΟ\Αλληλεπίδραση Ανθρώπου-Υπολογιστή\ERGASIA_2019-2020\ERGASIA_2019-20(P17103,P17113)\Repos\Ergasia_2020\obj\Debug\Ergasia_2020.pdb
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.csprojAssemblyReference.cache
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Employee_Main.resources
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Customer.resources
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Employee.resources
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Login.resources
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Properties.Resources.resources
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.csproj.GenerateResource.cache
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.csproj.CoreCompileInputs.cache
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.exe
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.pdb
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\bin\Debug\Ergasia_2020.exe.config
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\bin\Debug\Ergasia_2020.exe
+C:\Users\takis\source\repos\ErgasiaAllilepi_2020\bin\Debug\Ergasia_2020.pdb
+G:\ErgasiaAllilepi_2020\bin\Debug\Ergasia_2020.exe.config
+G:\ErgasiaAllilepi_2020\bin\Debug\Ergasia_2020.exe
+G:\ErgasiaAllilepi_2020\bin\Debug\Ergasia_2020.pdb
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.csprojAssemblyReference.cache
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Employee_Main.resources
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Customer.resources
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Cinema_Complex_Employee.resources
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Login.resources
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.Properties.Resources.resources
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.csproj.GenerateResource.cache
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.csproj.CoreCompileInputs.cache
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.exe
+G:\ErgasiaAllilepi_2020\obj\Debug\Ergasia_2020.pdb
